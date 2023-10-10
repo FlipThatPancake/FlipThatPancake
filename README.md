@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FlipThatPancake
-- 👀 I’m interested in writing, teaching.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on a web app for learners of English.
+- 👋 Hi, I’m @CodingMan
+- 👀 I’m interested in writing, teaching, and coding (obviously).
+- 🌱 I’m currently learning Python and JS.
+- 💞️ I’m looking to collaborate on any project to gain experience.
 - 📫 How to reach me -> add comment anywhere on my profile
 
 <!---
